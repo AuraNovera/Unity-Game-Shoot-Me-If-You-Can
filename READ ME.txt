@@ -1,0 +1,8 @@
+1.To run this game any version of Unity Game development software 
+should be installed in the device.
+2.Go to the "Shoot_me_if_you_can(final)->Build Game->Shoot_me_if_you_can"
+ to play the built game
+3.Go to the "Shoot_me_if_you_can(final)->Assets->Scenes->floorscene"
+ to open the game in the Unity Editor
+4.Move using your left-right-up-down keys in the keyboard
+5.Use mouse to click and shoot
